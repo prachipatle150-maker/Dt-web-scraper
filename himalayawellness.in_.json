@@ -1,0 +1,43 @@
+{
+  "identity": {
+    "company_name": "Shop Now\n\u2013 Himalaya Wellness (India)",
+    "website_url": "https://himalayawellness.in/",
+    "tagline": "Not found"
+  },
+  "business_summary": {
+    "what_they_do": "Based on website content, the company operates in health and nutrition products.",
+    "primary_offerings": [],
+    "target_segments": []
+  },
+  "evidence": {
+    "pages_detected": [
+      "home",
+      "/products"
+    ],
+    "signals_found": [],
+    "social_links": {}
+  },
+  "contact": {
+    "emails": [],
+    "phones": [],
+    "address": "Not found",
+    "contact_page": "Not found"
+  },
+  "team_hiring": {
+    "careers_page": "Not found"
+  },
+  "metadata": {
+    "timestamp": "2025-12-26T05:48:18.233220+00:00",
+    "pages_visited": [
+      "https://himalayawellness.in/",
+      "https://himalayawellness.in/",
+      "https://himalayawellness.in//products"
+    ],
+    "errors": [
+      "Could not fetch https://himalayawellness.in//about",
+      "Could not fetch https://himalayawellness.in//solutions",
+      "Could not fetch https://himalayawellness.in//contact",
+      "Could not fetch https://himalayawellness.in//careers"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "identity": {
+    "company_name": "Nestl\u00e9 Health Science",
+    "website_url": "https://www.nestlehealthscience.com/",
+    "tagline": "Not found"
+  },
+  "business_summary": {
+    "what_they_do": "Based on website content, the company operates in health and nutrition products.",
+    "primary_offerings": [],
+    "target_segments": []
+  },
+  "evidence": {
+    "pages_detected": [
+      "home",
+      "/about",
+      "/products",
+      "/careers"
+    ],
+    "signals_found": [],
+    "social_links": {}
+  },
+  "contact": {
+    "emails": [],
+    "phones": [],
+    "address": "Not found",
+    "contact_page": "Not found"
+  },
+  "team_hiring": {
+    "careers_page": "Not found"
+  },
+  "metadata": {
+    "timestamp": "2025-12-26T06:06:24.130489+00:00",
+    "pages_visited": [
+      "https://www.nestlehealthscience.com/",
+      "https://www.nestlehealthscience.com/",
+      "https://www.nestlehealthscience.com//about",
+      "https://www.nestlehealthscience.com//products",
+      "https://www.nestlehealthscience.com//careers"
+    ],
+    "errors": [
+      "Could not fetch https://www.nestlehealthscience.com//solutions",
+      "Could not fetch https://www.nestlehealthscience.com//contact"
+    ]
+  }
+}
