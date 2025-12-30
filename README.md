@@ -54,3 +54,12 @@ Some websites rely heavily on JavaScript, so not all content can be fetched dire
 The scraper is designed to be honest: it logs when information cannot be found instead of making guesses.
 This project is meant to be a lightweight, reliable tool for structured data extraction—not a full-scale web crawler.
 The goal was to build something practical and easy to understand, so it can be extended for other websites in the future.
+
+## Additional
+
+Along with the initial demo websites, the scraper was also tested on:
+- https://www.zoho.com/
+
+This was done to validate the scraper across a different industry (enterprise SaaS).
+The corresponding JSON output is available in the  folder.
+
