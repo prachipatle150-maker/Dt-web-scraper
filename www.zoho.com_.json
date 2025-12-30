@@ -1,0 +1,44 @@
+{
+  "identity": {
+    "company_name": "Cloud Software Suite for Businesses",
+    "website_url": "https://www.zoho.com/",
+    "tagline": "Not found"
+  },
+  "business_summary": {
+    "what_they_do": "Based on website content, the company operates in health and nutrition products.",
+    "primary_offerings": [],
+    "target_segments": []
+  },
+  "evidence": {
+    "pages_detected": [
+      "home",
+      "/contact",
+      "/careers"
+    ],
+    "signals_found": [],
+    "social_links": {}
+  },
+  "contact": {
+    "emails": [],
+    "phones": [],
+    "address": "Not found",
+    "contact_page": "Not found"
+  },
+  "team_hiring": {
+    "careers_page": "Not found"
+  },
+  "metadata": {
+    "timestamp": "2025-12-30T15:28:20.618128+00:00",
+    "pages_visited": [
+      "https://www.zoho.com/",
+      "https://www.zoho.com/",
+      "https://www.zoho.com//contact",
+      "https://www.zoho.com//careers"
+    ],
+    "errors": [
+      "Could not fetch https://www.zoho.com//about",
+      "Could not fetch https://www.zoho.com//products",
+      "Could not fetch https://www.zoho.com//solutions"
+    ]
+  }
+}
